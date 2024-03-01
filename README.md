@@ -1,2 +1,0 @@
-# ReactGrid
-Coming soon
